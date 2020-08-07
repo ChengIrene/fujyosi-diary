@@ -12,6 +12,21 @@
   * github的 [SSH金鑰設定](https://blog.jaycetyle.com/2018/02/github-ssh/https://blog.jaycetyle.com/2018/02/github-ssh/)
   * 倉庫的[合併報錯解決(允許合併無關的歷史)](https://blog.csdn.net/wd2014610/article/details/80854807)
   * git pull origin master --allow-unrelated-histories
+  * 查分支名 git branch
+  * 設定倉庫 git remote add origin git@github.com:ChengIrene/fujyosi-diary.git
+  * 刪除遠端倉庫設定 git remote rm origin
+  * 查看遠端倉庫名稱 git remote -v
+  * 感謝底迪幫忙解決～
+
+* 2020/8/7
+  * 學習git
+  * 看幽遊白書學日文 XDDD
+  * 跟NANA問git的事情 結果聊了快三小時www
+  
+  
+  
+  
+
   
   
   
